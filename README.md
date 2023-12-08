@@ -16,6 +16,7 @@ Vorgehen:
 - Die Seite responsive gestaltet
 
 Bezug zur Bachelor-Arbeit:
+
 Ich mache als Lehrprojekt in meiner Bachelor-Arbeit einen Kulturpodcast mit diversen Gästen aus verschiedenen kulturellen Bereichen. Ich wollte für diesen Podcast eine einfache und gut übersichtliche Webseite bauen mit einer Podcast-Beschreibug, einer Beschreibung meiner Person, Vorstellung der Podcast-Gäste, Einbinden von Folgen auf Spotify. 
 
 Arbeitsmittel:
